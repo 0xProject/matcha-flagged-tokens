@@ -12,6 +12,13 @@
       "decimals": 18,
       "name": "GGBoxs.com",
       "symbol": "GGBoxs.com"
+    },
+    {
+      "address": "0x0b91b07beb67333225a5ba0259d55aee10e3a578",
+      "chainId": 137,
+      "decimals": 8,
+      "name": "Minereum Polygon",
+      "symbol": "MNEP"
     }
   ]
 }
