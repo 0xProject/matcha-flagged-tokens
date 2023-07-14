@@ -1,0 +1,17 @@
+{
+  "name": "Matcha Flagged Tokens",
+  "timestamp": "2023-07-13T20:47:02.923Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tags": {},
+  "logoURI": "https://matcha.xyz/apple-touch-icon.png",
+  "keywords": ["matcha", "flagged"],
+  "tokens": [
+    {
+      "address": "0xcf68f02d7dd6a4642ae6a77f6a3676d0cbc834c9",
+      "chainId": 137,
+      "decimals": 18,
+      "name": "GGBoxs.com",
+      "symbol": "GGBoxs.com"
+    }
+  ]
+}
